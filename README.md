@@ -7,6 +7,7 @@
 <br/>
 
 <div align="center">
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=abhishekdumaniya&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekdumaniya" /> </p>
   
  🌱 I’m currently learning **React**
 
