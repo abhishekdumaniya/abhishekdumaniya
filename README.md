@@ -14,7 +14,7 @@
 
 💬 Ask me about **React, Java, Spring, Spring Boot... or anything [here](https://github.com/abhishekdumaniya)**
 
-⚡ Fun fact **Don't Settle for average**
+⚡ Fun fact **It’s all 0’s and 1’s**
 
  </div>
  
