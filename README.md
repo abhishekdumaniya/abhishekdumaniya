@@ -12,7 +12,7 @@
   
  🌱 I’m currently learning **React**
 
-💬 Ask me about **React.js, Java, Js, ... or anything [here](https://github.com/abhishekdumaniya)**
+💬 Ask me about **React.js, Java, Spring, Spring Boot Js, ... or anything [here](https://github.com/abhishekdumaniya)**
 
 ⚡ Fun fact **It’s all 0’s and 1’s**
 
