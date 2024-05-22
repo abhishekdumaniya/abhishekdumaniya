@@ -14,7 +14,7 @@
 
 💬 Ask me about **React.js, Java, Spring, Spring Boot, JavaScript,... or anything [here](https://github.com/abhishekdumaniya)**
 
-⚡ Fun fact **It’s all 0’s and 1’s**
+⚡ Fun fact **Do or Don't There is NO Try**
 
  </div>
  
