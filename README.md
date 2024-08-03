@@ -14,7 +14,7 @@
 
 💬 Ask me about **React.js, Java, Spring, Spring Boot, JavaScript,... or anything [here](https://github.com/abhishekdumaniya)**
 
-⚡ Fun fact **Do or Don't There is NO Try**
+⚡ Fun fact **It's not about being perfect, it's about progress**
 
  </div>
  
