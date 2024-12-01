@@ -12,7 +12,7 @@
   
  🌱 I’m currently learning **Spring and Spring Boot**
 
-💬 Ask me about **React.js, Java, Spring, Spring Boot, JavaScript,... or anything [here](https://github.com/abhishekdumaniya)**
+💬 Ask me about **Java, Spring, Spring Boot, AWS, JavaScript, React.js...... or anything [here](https://github.com/abhishekdumaniya)**
 
 ⚡ Fun fact **It's not about being perfect, it's about progress**
 
